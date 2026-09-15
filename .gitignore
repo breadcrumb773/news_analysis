@@ -10,3 +10,10 @@ wheels/
 .venv
 uv.lock
 .python-version
+
+# Data and secrets
+data/
+.env
+*.csv
+*.parquet
+*.gz
